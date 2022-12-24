@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&display=swap");
+
+/* -------------------- Main -------------------- */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+:root {
+  --grey: #101010;
+  --light-grey: #202020;
+  --cyan: #5ce1e6;
+  --dark-cyan: #17b7bc;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+body {
+  background-color: var(--grey);
+  position: relative;
+}
+a {
+  all: unset;
+}
+.grid-body {
+  background-size: 60px 60px;
+  background-image: linear-gradient(
+      to right,
+      rgba(128, 128, 128, 0.08) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, rgba(128, 128, 128, 0.08) 1px, transparent 1px);
+}
+
+
+
+/* -------------------- Utilities -------------------- */
+
+
+
+.content {
+  padding: 25px 80px;
+  color: #fff;
+}
+.c-heading {
+  margin-top: 0;
+  font-size: 2rem;
+  color: var(--dark-cyan);
+}
+.ic-heading {
+  font-size: 1.5rem;
+  color: var(--dark-cyan);
+}
+.c-paragraph {
+  font-weight: 300;
+  font-size: 1.1rem;
+}
+.hl {
+  color: var(--dark-cyan);
+  font-weight: 400;
+}
+
+
+
+/* -------------------- Keyboard -------------------- */
+
+
+
+.keyboard {
+  width: 730px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 20px;
+  background-color: var(--grey);
+  border: 1px solid #fff;
+}
+.row {
+  width: 100%;
+}
+.key {
+  color: #000;
+  background-color: #fff;
+  padding: 0.5rem 1rem;
+  margin: 4px;
+  width: 35px;
+  height: 45px;
+  border-radius: 5px;
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.active {
+  color: #000;
+  background-color: var(--dark-cyan);
+  background-size: 25px 25px;
+  background-image: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 0.25) 1px,
+      transparent 1px
+    ),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.25) 1px, transparent 1px);
+}
+
+.esc, .tab, .ctrl { width: 10%; }
+.caps { width: 13%; }
+.shift { width: 14%; }
+.space { width: 56.4%; }
+.fill { background-color: #181818; color: #181818; }
+
+
+
+/* -------------------- MIDI Details & Connection Panel -------------------- */
+
+
+
+.detail-wrapper {
+  margin-bottom: 50px;
+  margin-left: 25px;
+}
+.detail-group {
+  display: block;
+}
+.detail-group > h3, .detail-group > h4 {
+  all: unset;
+}
+.detail-group > h3 {
+  font-weight: 600;
+}
+.detail-group > h4 {
+  font-weight: 300;
+}
+
+#status-banner {
+  margin: 5px auto 40px auto;
+  padding: 15px 10px;
+  border-radius: 10px;
+  color: #000;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #ff0000;
+  width: 80%;
+  animation: linear infinite 2s pulse;
+}
+@keyframes pulse {
+  0% { opacity: 1; }
+  25% { opacity: 0.8; }
+  50% { opacity: 0.6; }
+  75% { opacity: 0.8; }
+  100% { opacity: 1; }
+}
+
+
+
+/* -------------------- Bottom Panel Bar -------------------- */
+
+
+.vertical-divider {
+  border: 1px solid #fff;
+}
+.bottom-bar {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  width: min-content;
+  margin-top: 30px;
+}
+.bar-container {
+  height: 300px;
+  width: 400px;
+  border: 1px solid #fff;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: var(--grey);
+}
+.live-wrapper {
+  margin-left: 25px;
+}
+.live-wrapper > h3 {
+  all: unset;
+  display: block;
+  margin: 25px;
+}
