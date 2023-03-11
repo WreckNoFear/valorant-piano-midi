@@ -2,7 +2,7 @@
  
 Program by Adam. ©2023. <br>
 Contact: https://wrecknofear.github.io/contact <br>
-Program allowed for modification or redistribution for personal use only and with credit given.
+Allowed for modification or redistribution for personal use only and with credit given.
 
 ```
 Libraries used: Pyautogui, Flask, Web MIDI API
