@@ -19,7 +19,7 @@ Languages used: Javascript, HTML, CSS, Python
 # Run the program [Method 1]
 **Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
 
-**1.** Download all files from GitHub in ZIP file format
+**1.** Download all files from GitHub in ZIP file format <br>
 <img width="402" alt="Screenshot 2023-03-11 at 2 38 42 pm" src="https://user-images.githubusercontent.com/69378029/224462972-4b2ca7d9-8233-4c4e-8271-51ff684580a4.png">
 
 **2.** Unzip the downloaded file
@@ -42,7 +42,7 @@ WINDOWS shortcut: `CONTROL+SHIFT+J`
 # Run the program [Method 2]
 **Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
 
-**1.** Download all files from GitHub in ZIP file format
+**1.** Download all files from GitHub in ZIP file format <br>
 <img width="402" alt="Screenshot 2023-03-11 at 2 38 42 pm" src="https://user-images.githubusercontent.com/69378029/224462972-4b2ca7d9-8233-4c4e-8271-51ff684580a4.png">
 
 **2.** Unzip the downloaded file
