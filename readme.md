@@ -10,7 +10,7 @@ Code by Adam S.
 Keys and pedals are in a layout optimised for Valorant.
 Computer keys (X, TAB, G, C, M) were binded to the additional side buttons on the Logitech G503 Hero mouse.
 
-TO RUN THE PROGRAM:
+# Run the program
 
 Download all files and open the directory in Visual Studio Code or another text editor.
 Open a terminal window in Visual Studio Code:
