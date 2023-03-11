@@ -32,6 +32,7 @@ Languages used: Javascript, HTML, CSS, Python
 <img width="1181" alt="Screenshot 2023-03-11 at 2 43 07 pm" src="https://user-images.githubusercontent.com/69378029/224463206-128859e2-34d9-4402-a7b4-d40639362398.png">
 
 **6.** Visit `http://localhost:5000` in a web browser to view the web input feedback interface <br>
-**Optional** All incoming and outgoing key presses are logged in the webpage console. To view this log, open the webpage console using the appropriate shortcut: <br>
+
+**7. Optional** All incoming and outgoing key presses are logged in the webpage console. To view this log, open the webpage console using the appropriate shortcut: <br>
 MAC shortcut: `COMMAND+OPTION+J` <br>
 WINDOWS shortcut: `CONTROL+SHIFT+J`
