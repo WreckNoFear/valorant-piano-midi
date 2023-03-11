@@ -1,4 +1,6 @@
-/* Shift key broken */
+// -------------------------------
+// KNOWN ISSUE: Shift pedal broken
+// -------------------------------
 
 /* ----- HTML Element Variables ----- */
 
