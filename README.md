@@ -1,6 +1,6 @@
 # Valorant Piano MIDI
  
-Code by WreckNoFear ©2023. <br>
+Code by Adam S. ©2023. <br>
 Program allowed for modification or redistribution for personal use only and with credit given.
 
 ```
