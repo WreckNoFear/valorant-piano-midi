@@ -3,6 +3,10 @@
 Code by WreckNoFear ©2023. <br>
 Program allowed for modification or redistribution for personal use only and with credit given.
 
+```
+Libraries used: Pyautogui, Flask, Web MIDI API
+```
+
 # Key points
 
 * This program was designed specifically to play Valorant on a piano using only the piano keys, pedals and buttons binded to keys on a gaming mouse.
