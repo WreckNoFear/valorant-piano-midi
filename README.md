@@ -5,6 +5,7 @@ Program allowed for modification or redistribution for personal use only and wit
 
 ```
 Libraries used: Pyautogui, Flask, Web MIDI API
+Langauges used: Javascript, HTML, CSS, Python
 ```
 
 # Key points
