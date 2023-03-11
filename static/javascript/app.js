@@ -66,6 +66,7 @@ function handleMIDI(input) {
     console.log(`Command: ${command}, Note: ${note}, Velocity: ${velocity}`);
 
     /* Key Down/Up */
+    // --- WHITE & BLACK KEYS ---
     if (command == 144) {
         switch (note) {
             case 21:
@@ -77,7 +78,7 @@ function handleMIDI(input) {
             case 24:
                 keydown('escape', note, velocity)
                 break;
-        // --------------------
+        // ---
             case 43:
                 keydown('b', note, velocity)
                 break;
@@ -112,6 +113,7 @@ function handleMIDI(input) {
                 keydown('2', note, velocity)
                 break;
             }
+    // --- PEDALS ---
     } else if (command == 176) {
         switch(note) {
             case 67:
