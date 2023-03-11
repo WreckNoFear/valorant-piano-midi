@@ -154,25 +154,3 @@ function sendToServer(key, down) {
         data: JSON.stringify(x)
     });
 }
-
-/*
-setInterval(() => {
-    $.ajax({
-        url: '/mousedata',
-        type: 'GET',
-        success: function(vars) {
-            console.log('yes')
-            console.log(vars)
-            
-            var pressedKey = document.getElementById(`${key}`);
-            
-            if (down == true) {
-                pressedKey.classList.add('mouse-active');
-            } else {
-                pressedKey.classList.remove('mouse-active');
-            }
-
-        }
-    })
-}, 1000);
-*/
