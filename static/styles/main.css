@@ -41,11 +41,7 @@ a {
 }
 
 
-
 /* -------------------- Utilities -------------------- */
-
-
-
 .content {
   padding: 25px 80px;
   color: #fff;
@@ -69,11 +65,7 @@ a {
 }
 
 
-
 /* -------------------- Keyboard -------------------- */
-
-
-
 .keyboard {
   width: 730px;
   padding: 10px;
@@ -118,11 +110,7 @@ a {
 .fill { background-color: #181818; color: #181818; }
 
 
-
 /* -------------------- MIDI Details & Connection Panel -------------------- */
-
-
-
 .detail-wrapper {
   margin-bottom: 50px;
   margin-left: 25px;
@@ -162,10 +150,7 @@ a {
 }
 
 
-
 /* -------------------- Bottom Panel Bar -------------------- */
-
-
 .vertical-divider {
   border: 1px solid #fff;
 }
