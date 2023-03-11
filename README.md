@@ -4,7 +4,7 @@ Code by WreckNoFear ©2023. <br>
 Program allowed for modification or redistribution for personal use only and with credit given.
 
 ```
-Libraries used: Pyautogui, Flask, Web MIDI API
+**Libraries used:** Pyautogui, Flask, Web MIDI API
 ```
 
 # Key points
