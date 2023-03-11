@@ -4,7 +4,7 @@ Programmed by Adam.
 
 # Key points
 
-> Computer keys correspond with keys and pedals in a layout optimised for Valorant.
+> Computer keys correspond with keys and pedals in a layout optimised for Valorant. \n
 > Computer keys (X, TAB, G, C, M) were binded to the additional side buttons on the Logitech G503 Hero mouse.
 
 # Run the program
