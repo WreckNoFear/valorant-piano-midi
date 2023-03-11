@@ -1,6 +1,6 @@
 # Valorant Piano MIDI
  
-Program by Adam. ©2023. <br>
+**Program by Adam. ©2023. <br>**
 Contact: https://wrecknofear.github.io/contact <br>
 Allowed for modification or redistribution for personal/educational use only and credit must be given.
 
