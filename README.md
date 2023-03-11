@@ -33,6 +33,6 @@ Languages used: Javascript, HTML, CSS, Python
 
 **6.** Visit `http://localhost:5000` in a web browser to view the web input feedback interface <br>
 
-**7.** (OPTIONAL) All incoming and outgoing key presses are logged in the webpage console. To view this log, open the webpage console using the appropriate shortcut: <br>
+**7.** *(OPTIONAL)* All incoming and outgoing key presses are logged in the webpage console. To view this log, open the webpage console using the appropriate shortcut: <br>
 MAC shortcut: `COMMAND+OPTION+J` <br>
 WINDOWS shortcut: `CONTROL+SHIFT+J`
