@@ -1,10 +1,10 @@
-# To start:
-# py server.py
+# -------------------------------
+# TO START SERVER: py server.py
+# -------------------------------
 
 import json
 import pyautogui
 from flask import Flask, render_template, request, jsonify
-# import keyboard
 
 app = Flask(__name__)
 
