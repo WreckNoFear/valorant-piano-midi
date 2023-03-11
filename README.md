@@ -27,7 +27,7 @@ Languages used: Javascript, HTML, CSS, Python
 **3.** Open a `Terminal` window (Mac) or `Command Prompt` window (Windows) <br>
 <img width="570" alt="Screenshot 2023-03-11 at 3 52 02 pm" src="https://user-images.githubusercontent.com/69378029/224465644-26c5a23c-9b84-410a-96a7-4e499ef69dfa.png">
 
-**4.** Navigate to the appropriate file using the directory command, `cd`<br>
+**4.** Navigate to the appropriate folder using the directory command, `cd`<br>
 <img width="571" alt="Screenshot 2023-03-11 at 3 48 38 pm" src="https://user-images.githubusercontent.com/69378029/224465504-49a88c88-1d35-4b5b-9b26-fec44300bdce.png">
 
 **5.** Type `py server.py` into the terminal window and press `ENTER`
