@@ -1,7 +1,7 @@
 # Valorant Piano MIDI
  
 Code by Adam. 2023. <br>
-Contact: (https://wrecknofear.github.io)
+Contact: https://wrecknofear.github.io <br>
 Program allowed for modification or redistribution for personal use only and with credit given.
 
 ```
