@@ -14,9 +14,9 @@ Languages used: Javascript, HTML, CSS, Python
 * This program was designed specifically to play Valorant on a piano using only the piano keys, pedals and buttons binded to keys on a gaming mouse.
 * Computer keys correspond with keys and pedals in a layout optimised for Valorant.
 * Computer keys (X, TAB, G, C, M) were binded to the additional side buttons on the Logitech G503 Hero mouse.
-* There is no run file for this program, so run it using a code editor or terminal/command prompt window as explained below
+* **There is no run file for this program, so run it using a code editor or terminal/command prompt window as explained below**
 
-# Run the program [Method 1 - Built-in terminal/command prompt]
+# Run the program [Method 1]
 **Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
 
 **1.** Download all files from GitHub in ZIP file format
@@ -39,7 +39,7 @@ Languages used: Javascript, HTML, CSS, Python
 MAC shortcut: `COMMAND+OPTION+J` <br>
 WINDOWS shortcut: `CONTROL+SHIFT+J`
 
-# Run the program [Method 2 - Code editor terminal]
+# Run the program [Method 2]
 **Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
 
 **1.** Download all files from GitHub in ZIP file format
