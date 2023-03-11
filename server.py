@@ -29,32 +29,5 @@ def pressKey():
     return key
 
 
-'''
-@app.route('/mousedata')
-def mouseEvents():
-    def onkeydown(event):
-        eventHistory = {
-            'key': event.name,
-            'down': True
-        }
-        print(eventHistory)
-        with app.app_context():
-            return jsonify(eventHistory)
-
-    def onkeyup(event):
-        eventHistory = {
-            'key': event.name,
-            'down': False
-        }
-        print(eventHistory)
-        with app.app_context():
-            return jsonify(eventHistory)
-
-    keyboard.on_press(onkeydown)
-    keyboard.on_release(onkeyup)
-
-    keyboard.wait()
-'''
-
 if __name__ == "__main__":
     app.run(debug=True)
