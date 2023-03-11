@@ -16,10 +16,10 @@ Languages used: Javascript, HTML, CSS, Python
 * Computer keys (X, TAB, G, C, M) were binded to the additional side buttons on the Logitech G503 Hero mouse.
 * There is no run file for this program, so run it using a code editor or terminal/command prompt window as explained below
 
-# Run the program [Method 1]
+# Run the program [Method 1 - Built-in terminal/command prompt]
 **Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
 
-1. Download all files from GitHub in ZIP file format
+**1.** Download all files from GitHub in ZIP file format
 <img width="402" alt="Screenshot 2023-03-11 at 2 38 42 pm" src="https://user-images.githubusercontent.com/69378029/224462972-4b2ca7d9-8233-4c4e-8271-51ff684580a4.png">
 
 **2.** Unzip the downloaded file
@@ -39,10 +39,10 @@ Languages used: Javascript, HTML, CSS, Python
 MAC shortcut: `COMMAND+OPTION+J` <br>
 WINDOWS shortcut: `CONTROL+SHIFT+J`
 
-# Run the program [Method 2]
+# Run the program [Method 2 - Code editor terminal]
 **Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
 
-1. Download all files from GitHub in ZIP file format
+**1.** Download all files from GitHub in ZIP file format
 <img width="402" alt="Screenshot 2023-03-11 at 2 38 42 pm" src="https://user-images.githubusercontent.com/69378029/224462972-4b2ca7d9-8233-4c4e-8271-51ff684580a4.png">
 
 **2.** Unzip the downloaded file
