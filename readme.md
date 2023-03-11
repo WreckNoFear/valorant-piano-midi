@@ -10,8 +10,10 @@ Programmed by Adam.
 
 # Run the program
 
-1. Download all files and open the directory in Visual Studio Code or another text editor.
+1. Download all files from github in ZIP file format
+<img width="402" alt="Screenshot 2023-03-11 at 2 38 42 pm" src="https://user-images.githubusercontent.com/69378029/224462972-4b2ca7d9-8233-4c4e-8271-51ff684580a4.png">
 
+2. 
 
 3. Open a terminal window in Visual Studio Code:
 
