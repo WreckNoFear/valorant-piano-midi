@@ -14,9 +14,32 @@ Languages used: Javascript, HTML, CSS, Python
 * This program was designed specifically to play Valorant on a piano using only the piano keys, pedals and buttons binded to keys on a gaming mouse.
 * Computer keys correspond with keys and pedals in a layout optimised for Valorant.
 * Computer keys (X, TAB, G, C, M) were binded to the additional side buttons on the Logitech G503 Hero mouse.
-* There is no run file for this program, so run it using a code editor or terminal/console window as explained below
+* There is no run file for this program, so run it using a code editor or terminal/command prompt window as explained below
 
-# Run the program
+# Run the program [Method 1]
+**Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
+
+1. Download all files from GitHub in ZIP file format
+<img width="402" alt="Screenshot 2023-03-11 at 2 38 42 pm" src="https://user-images.githubusercontent.com/69378029/224462972-4b2ca7d9-8233-4c4e-8271-51ff684580a4.png">
+
+**2.** Unzip the downloaded file
+
+**3.** Open a `Terminal` window (Mac) or `Command Prompt` window (Windows) <br>
+<img width="571" alt="Screenshot 2023-03-11 at 3 45 28 pm" src="https://user-images.githubusercontent.com/69378029/224465406-91734ca2-2e2d-4e7d-89e7-59571fd0f425.png">
+
+**4.** Navigate to the appropriate file using the directory command, `cd`<br>
+<img width="571" alt="Screenshot 2023-03-11 at 3 48 38 pm" src="https://user-images.githubusercontent.com/69378029/224465504-49a88c88-1d35-4b5b-9b26-fec44300bdce.png">
+
+**5.** Type `py server.py` into the terminal window and press `ENTER`
+<img width="568" alt="Screenshot 2023-03-11 at 3 50 18 pm" src="https://user-images.githubusercontent.com/69378029/224465558-95f3b494-60d4-4466-ba6c-26f25cf4d625.png">
+
+**6.** Visit `http://localhost:5000` in a web browser to view the webpage input interface <br>
+
+**7.** *(OPTIONAL)* All incoming and outgoing key presses are logged in the webpage's console. To view this log, open the webpage console using the appropriate shortcut: <br>
+MAC shortcut: `COMMAND+OPTION+J` <br>
+WINDOWS shortcut: `CONTROL+SHIFT+J`
+
+# Run the program [Method 2]
 **Ensure that the latest version of `Python 3` is installed and a MIDI piano is connected via a MIDI to USB adapter.**
 
 1. Download all files from GitHub in ZIP file format
