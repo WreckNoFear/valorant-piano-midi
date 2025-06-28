@@ -1,7 +1,7 @@
 # Valorant Piano MIDI
  
 **Program by Adam Schon. ©2024. <br>**
-Contact: https://adamschon.vercel.app <br>
+Contact: https://schon.au <br>
 Allowed for modification or redistribution for personal/educational use only and credit must be given.
 
 ```
